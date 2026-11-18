@@ -25,3 +25,7 @@ kits:
   - url: https://github.com/dam-agents/micro-manager
   - url: https://github.com/dam-agents/software-developer
   - url: https://github.com/dam-agents/updepbot
+  - url: https://github.com/BrUn3y/qiskit_lab
+    publisher:
+      name: Edgar Bruney
+      url: https://github.com/BrUn3y
